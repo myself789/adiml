@@ -1,0 +1,7 @@
+parameters:
+#    adim_user.example.class: Adim\UserBundle\Example
+
+services:
+#    adim_user.example:
+#        class: %adim_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

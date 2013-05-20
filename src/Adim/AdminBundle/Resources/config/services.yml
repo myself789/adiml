@@ -1,0 +1,7 @@
+parameters:
+#    adim_admin.example.class: Adim\AdminBundle\Example
+
+services:
+#    adim_admin.example:
+#        class: %adim_admin.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
